@@ -70,7 +70,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅主标题
 			title: "无论今天多么不堪，明天依旧如约而至",
 			// 主页横幅主标题字体大小
-			titleSize: "3.8rem",
+			titleSize: "2.5rem",
 			// 主页横幅副标题
 			subtitle: [
 				"I miss you so much.",
