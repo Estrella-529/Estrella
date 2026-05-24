@@ -49,12 +49,10 @@ export const sponsorConfig: SponsorConfig = {
 			amount: "¥9999999",
 			date: "2026-5-23",
 		},
-
-		// 示例：匿名赞助者
 		{
-			name: "匿名用户",
-			amount: "¥20",
-			date: "2025-10-01",
+			name: "Estrella",
+			amount: "¥9999999",
+			date: "2026-5-24",
 		},
 	],
 };
