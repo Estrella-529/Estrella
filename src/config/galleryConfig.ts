@@ -20,20 +20,28 @@ export const galleryConfig: GalleryConfig = {
 			name: "X",
 			description: "嘻嘻",
 			location: "石家庄",
-			date: "2026-01-01",
+			date: "2026-05-24",
 			tags: ["相册", "石家庄"],
 		},
-		// {
-		// 	id: "encrypted-test",
-		// 	name: "加密相册示例",
-		// 	description:
-		// 		"这是一个加密相册的示例，设置了访问密码，只有输入正确的密码才能查看相册内容。",
-		// 	location: "崩坏：星穹铁道",
-		// 	date: "2026-02-01",
-		// 	tags: ["加密相册", "示例"],
-		// 	password: "123456",
-		// 	passwordHint: "示例密码123456",
-		// },
+		{
+			id: "zhaopian",
+			name: "X",
+			description: "哈哈",
+			location: "石家庄",
+			date: "2026-05-25",
+			tags: ["相册", "石家庄"],
+		},
+		{
+			id: "XXX",
+			name: "付费观看",
+			description:
+				"图片已被小猫撞烂，赞助10元即可解锁此相册",
+			location: "石家庄",
+			date: "2026-05-25",
+			tags: ["加密相册"],
+			password: "134811",
+			passwordHint: "拜拜",
+		},
 	],
 
 	// 瀑布流最小列宽(px)，浏览器根据容器宽度自动计算列数，默认 240
