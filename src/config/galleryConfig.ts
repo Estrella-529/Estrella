@@ -39,7 +39,7 @@ export const galleryConfig: GalleryConfig = {
 			location: "石家庄",
 			date: "2026-05-25",
 			tags: ["加密相册"],
-			password: "134811",
+			password: "529",
 			passwordHint: "拜拜",
 		},
 	],
