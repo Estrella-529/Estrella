@@ -12,7 +12,8 @@ tags: [单词]
 category: '英语'
 #草稿
 draft: false 
-lang: 'xixi'
+lang: ''
 ---
-
+### space
+### spacious
 
