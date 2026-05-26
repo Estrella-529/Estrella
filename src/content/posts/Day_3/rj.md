@@ -7,9 +7,9 @@ description: ''
 #图片
 image: ''
 #标签
-tags: []
+tags: [炒饭]
 #分类
-category: ''
+category: '晚饭'
 #草稿
 draft: false 
 lang: ''
